@@ -14,7 +14,7 @@
     "lrz": "^4.9.40",
     "qs": "^6.5.1",
     "socket.io-client": "^2.1.0",
-    "swiper": "^4.2.0",
+    "swiper": "^6.5.1",
     "underscore": "^1.8.3",
     "vue": "^2.5.2",
     "vue-lazyload": "^1.2.2",
